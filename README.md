@@ -14,7 +14,7 @@ Simply look at the notes in the various sections on the HTML page and review the
 
 ## Credits
 
-Anthony Iacano
+Anthony Iacano <br>
 CWRU Coding Bootcamp
 
 ## License
